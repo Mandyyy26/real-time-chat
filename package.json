@@ -1,0 +1,20 @@
+{
+  "name": "real-time-chat",
+  "version": "1.0.0",
+  "description": "> ⚠️ This project is currently **under development**. I'm actively building it to learn and explore raw WebSocket communication in Node.js. Contributions, suggestions, or feedback are always welcome!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mandyyy26/real-time-chat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mandyyy26/real-time-chat/issues"
+  },
+  "homepage": "https://github.com/Mandyyy26/real-time-chat#readme"
+}
